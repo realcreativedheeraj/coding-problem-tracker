@@ -82,6 +82,89 @@ Tech| Purpose
 📁 Project Structure
 
 coding-problem-tracker-app/
+├── src/                # Main source code
+├── index.html          # Entry point
+├── package.json        # Project configuration
+├── package-lock.json   # Dependency lock file
+├── tsconfig.json       # TypeScript config
+├── vite.config.ts      # Build configuration
+
+---
+
+🚀 Run Locally
+
+npm install
+npm run dev
+
+---
+
+📦 Build for Production
+
+npm run build
+
+---
+
+🌍 Deployment
+
+This project uses:
+
+- GitHub Actions ⚙️
+- GitHub Pages 🌐
+
+👉 Auto-deploys on every push (CI/CD setup)
+
+---
+
+📈 Future Improvements
+
+- 🔐 Authentication system
+- ☁️ Cloud storage
+- 📊 Advanced analytics dashboard
+- 📅 Daily streak tracking
+- 🤖 AI-based problem suggestions
+
+---
+
+🤝 Contributing
+
+Feel free to contribute:
+
+- Fork the repo
+- Create a branch
+- Submit a PR
+
+---
+
+⭐ Support
+
+If you found this useful:
+
+- Star ⭐ the repo
+- Share with friends
+
+---
+
+🧠 Consistency-Focused Design
+
+- Designed to build habits, not just track data
+- Encourages daily problem solving
+
+---
+
+🛠️ Tech Stack
+
+Tech| Purpose
+⚡ Vite| Fast development & build
+🟦 TypeScript| Better structure & scalability
+🌐 HTML| Layout
+🎨 CSS| Styling
+🧠 JavaScript| Functionality
+
+---
+
+📁 Project Structure
+
+coding-problem-tracker-app/
 ┣ 📁 src/              # Main source code
 ┣ 📄 index.html        # Entry point
 ┣ 📄 package.json      # Project configuration
@@ -149,12 +232,7 @@ If you found this useful:
 
 - Star ⭐ the repo
 - Share with friends
-
----
-
-💬 Final Thought
-
-«"Discipline creates results — this app just makes it visible."»
+  
 ---
 
 ⚡ Fast & Responsive UI
@@ -254,9 +332,3 @@ If you like this project:
 👉 Share it with friends
 
 ---
-
-💬 Final Note
-
-«"Small steps daily → Big results eventually"»
-
-Stay consistent. Keep building. Keep improving 🚀
